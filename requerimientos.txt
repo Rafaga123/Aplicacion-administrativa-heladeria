@@ -1,0 +1,17 @@
+1) base de datos
+    - Usuarios 
+    - Helados
+    - Pedidos
+
+2) CRUD
+    - Agregar un helado nuevo al menu
+    - Agregar un usuario nuevo al sistema
+    - 
+
+3) Menus
+    - inicio de sesion
+    - Pagina de inicio
+    - Lista de Helados
+    - Pagina de un helado
+    - pagina del carrito
+    - pagina de pago

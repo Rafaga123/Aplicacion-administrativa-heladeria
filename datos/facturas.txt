@@ -1,0 +1,570 @@
+Cliente: ljknds dsfgdsaf
+Ci: 14785236
+Referencia: 1478
+Telefono: 12547896321
+Banco: 0141
+Divisa: d¢lar
+Fecha: 21/7/2024 a las 17:18:8
+IVA: 0.450000
+Monto: 15.000000
+Monto + IVA: 15.450000
+Cajero: Rafael Telles
+Ci cajero: 31785976
+Helado 1: Dulce de leche 3.000000 x1
+Helado 2: Mantecado 3.000000 x1
+Helado 3: Chocolate 4.000000 x1
+Helado 4: Torta suiza 5.000000 x1
+
+Cliente: 14 2
+Ci: 12365478
+Referencia: 1254
+Telefono: 12365478596
+Banco: 0141
+Divisa: bol¡var
+Fecha: 21/7/2024 a las 16:17:41
+IVA: 170.000000
+Monto: 1062.500000
+Monto + IVA: 1232.500000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Frambuesa 2.000000 x1
+Helado 2: Dulce de leche 3.000000 x1
+Helado 3: Stracciatella 4.500000 x1
+Helado 4: Regaliz 3.000000 x1
+Helado 5: Chocolate blanco 4.000000 x1
+Helado 6: Mantecado 3.000000 x1
+Helado 7: Chocolate 4.000000 x1
+Helado 8: Torta suiza 5.000000 x1
+Helado 9: Lluvia de chapas 7.000000 x2
+
+Cliente: 2 2
+Ci: 12345678
+Referencia: 1254
+Telefono: 74125896369
+Banco: 1410
+Divisa: d¢lar
+Fecha: 21/7/2024 a las 16:12:9
+IVA: 0.660000
+Monto: 22.000000
+Monto + IVA: 22.660000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Chocolate 400 x2
+Helado 2: Lluvia de chapas 700 x2
+
+Cliente: Too Much
+Ci: 30478963
+Referencia: 1478
+Telefono: 12365478965
+Banco: 0141
+Divisa: d¢lar
+Fecha: 21/7/2024 a las 16:6:9
+IVA: 2.415000
+Monto: 80.500000
+Monto + IVA: 82.915001
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Fresa 100 x2
+Helado 2: Pistacho 550 x1
+Helado 3: Maracuya 350 x1
+Helado 4: Avena y miel 400 x1
+Helado 5: Frambuesa 200 x2
+Helado 6: Dulce de leche 300 x1
+Helado 7: Stracciatella 450 x1
+Helado 8: Regaliz 300 x1
+Helado 9: Chocolate blanco 400 x2
+Helado 10: Mantecado 300 x1
+Helado 11: Chocolate 400 x1
+Helado 12: Torta suiza 500 x3
+Helado 13: Lluvia de chapas 700 x3
+
+Cliente: Taylor Lautner
+Ci: 12365478
+Referencia: 1213
+Telefono: 12457896321
+Banco: 0101
+Divisa: d¢lar
+Fecha: 21/7/2024 a las 15:58:12
+IVA: 1.170000
+Monto: 39.000000
+Monto + IVA: 40.169998
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Stracciatella
+Helado 2: Lluvia de chapas
+
+Cliente: B dsf
+Ci: 74125896
+Referencia: 1023
+Telefono: 14256987412
+Banco: bod
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 21:13:52
+IVA: 316.800000
+Monto: 1980.000000
+Monto + IVA: 2296.800049
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Fresa
+Helado 2: Pistacho
+Helado 3: Maracuya
+Helado 4: Avena y miel
+Helado 5: Lluvia de chapas
+Helado 6: Frambuesa
+Helado 7: Dulce de leche
+Helado 8: Stracciatella
+Helado 9: Regaliz
+Helado 10: Chocolate blanco
+Helado 11: Mantecado
+Helado 12: Chocolate
+Helado 13: Torta suiza
+
+Cliente: ljn fdsgfds
+Ci: 14785269
+Referencia: 123654789654
+Telefono: 12365478965
+Banco: fdgfdg
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 12:11:59
+IVA: 24.320000
+Monto: 152.000000
+Monto + IVA: 176.320007
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Chocolate blanco
+
+Cliente: laguagua Guagua
+Ci: 74125896
+Referencia: 123654789654
+Telefono: 12354785412
+Banco: Universal
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 12:10:3
+IVA: 25.600000
+Monto: 160.000000
+Monto + IVA: 185.600006
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Chocolate
+
+Cliente: klfg fdsgfdsg
+Ci: 30555798
+Referencia: 741258963547
+Telefono: 12547896321
+Banco: Banesco
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 12:8:20
+IVA: 1.120000
+Monto: 287.000000
+Monto + IVA: 288.119995
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+
+Cliente: Nombredss df
+Ci: 74125896
+Referencia: 123365478965
+Telefono: 14785236954
+Banco: universal
+Divisa: d¢lar
+Fecha: 14/6/2024 a las 12:6:14
+IVA: 0.420000
+Monto: 14.000000
+Monto + IVA: 14.420000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Mantecado
+Helado 2: Chocolate
+Helado 3: Lluvia de chapas
+
+Cliente: Gilberto Flores
+Ci: 78541263
+Referencia: 785412369541
+Telefono: 14785236954
+Banco: Banesco
+Divisa: d¢lar
+Fecha: 14/6/2024 a las 12:1:3
+IVA: 0.03
+Monto: 160.000000
+Monto + IVA: 164.800003
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Chocolate blanco
+
+Cliente: Gilberto Flores
+Ci: 30541269
+Referencia: 741258963012
+Telefono: 01478523695
+Banco: DelTesoro
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 11:52:49
+IVA: 0.16
+Monto: 640.000000
+Monto + IVA: 742.400024
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Mantecado
+Helado 2: Chocolate blanco
+Helado 3: Chocolate
+Helado 4: Torta suiza
+
+Cliente: dfg fdgfdg
+Ci: 74125896
+Referencia: 123045698741
+Telefono: 12365478951
+Banco: Tesoro
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 11:25:29
+Monto: 556.799988 + IVA
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Lluvia de chapas
+Helado 2: Torta suiza
+
+Cliente: Nose Jose
+Ci: 79461325
+Referencia: 123456987412
+Telefono: 04147854123
+Banco: Banesco
+Divisa: d¢lar
+Fecha: 14/6/2024 a las 11:20:35
+Monto: 28.500000
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Dulce de leche
+Helado 2: Stracciatella
+Helado 3: Mantecado
+Helado 4: Chocolate blanco
+Helado 5: Chocolate
+Helado 6: Torta suiza
+Helado 7: Torta suiza
+
+Cliente: Juan Pajuo
+Ci: 85296374
+Referencia: 123654789654
+Telefono: 04123698521
+Divisa: d¢lar
+Fecha: 14/6/2024 a las 11:15:43
+Monto: 19.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Mantecado
+Helado 2: Chocolate
+Helado 3: Torta suiza
+Helado 4: Lluvia de chapas
+
+Cliente: sfdgfdsg fdgsfdg
+Ci: 7854236
+Tarjeta: 12369874
+Divisa: d¢lar
+Fecha: 14/6/2024 a las 1:37:0
+Monto: 10.000000
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Lluvia de chapas
+Helado 2: Dulce de leche
+
+Cliente: asdfdsa asdfdsaf
+Ci: 12345678
+Tarjeta: 12345678
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 1:36:0
+Monto: 556.799988 + IVA
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+Helado 2: Torta suiza
+
+Cliente: Daniel ConPeluca
+Ci: 31548796
+Tarjeta: 12345678
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 1:25:3
+Monto: 556.799988 + IVA
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+Helado 2: Torta suiza
+
+Cliente: Daniel Sanchez
+Ci: 31548796
+Tarjeta: 12345678
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 1:23:32
+Monto: D + IVA
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Lluvia de chapas
+
+Cliente: Bruleiber Joshua
+Ci: 78451269
+Tarjeta: 12345678
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 1:19:13
+Monto: 760.000000
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Mantecado
+Helado 2: Chocolate
+Helado 3: Torta suiza
+Helado 4: Lluvia de chapas
+
+Cliente: Bruleiber Naranjo
+Ci: 32145698
+Tarjeta: 12345678
+Divisa: bol¡var
+Fecha: 14/6/2024 a las 1:14:5
+Banco: tesoro
+Monto: È
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Torta suiza
+
+Cliente: gffdg fgfg
+Ci: 12345678
+Tarjeta: 12345678
+Divisa: d¢lar
+Fecha: 14/6/2024 a las 1:12:57
+Banco: Chase
+Monto: 14.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+Helado 2: Lluvia de chapas
+
+Cliente: Sera N
+Ci: 78541236
+Fecha: 14/6/2024 a las 0:30:18
+Banco: r
+Monto: 13.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Chocolate
+Helado 2: Torta suiza
+Helado 3: Chocolate
+
+Cliente: Rafael Telles
+Ci: 99999999
+Fecha: 14/6/2024 a las 0:25:17
+Banco: R
+Monto: 16.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Chocolate blanco
+Helado 2: Mantecado
+Helado 3: Chocolate
+Helado 4: Torta suiza
+
+Cliente: Rafitoide J
+Ci: 85296347
+Fecha: 14/6/2024 a las 0:15:3
+Banco: gg
+Monto: 5.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Torta suiza
+
+Cliente: weqrqew weqrwqe
+Ci: 74125896
+Fecha: 14/6/2024 a las 0:2:40
+Banco: erer
+Monto: 7.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+
+Cliente: juan giraldo
+Ci: 12345678
+Fecha: 13/6/2024 a las 23:59:17
+Banco: nop
+Monto: 7.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+
+Cliente: 4554 hb
+Ci: 12345678
+Fecha: 13/6/2024 a las 23:50:25
+Banco: 147
+Monto: 7.000000
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Lluvia de chapas
+
+Cliente: nu nu
+Ci: 74125896
+Fecha: 13/6/2024 a las 23:48:37
+Banco: G
+Monto: 7.000000
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Lluvia de chapas
+
+Cliente: sdfads dsfdsaf
+Ci: 12365478
+Fecha: 13/6/2024 a las 23:2:13
+Banco: dsf
+Monto: 26.000000
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Regaliz
+Helado 2: Chocolate blanco
+Helado 3: Mantecado
+Helado 4: Chocolate
+Helado 5: Torta suiza
+Helado 6: Lluvia de chapas
+
+Cliente: King Chango
+Ci: 7896
+Fecha: 13/6/2024 a las 22:30:41
+Banco: dgg
+Monto: 32.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Maracuya
+Helado 2: Avena y miel
+Helado 3: Frambuesa
+Helado 4: Dulce de leche
+Helado 5: Stracciatella
+Helado 6: Regaliz
+Helado 7: Chocolate blanco
+Helado 8: Mantecado
+Helado 9: Torta suiza
+
+Cliente: King Chango
+Ci: 12456387
+Fecha: 13/6/124 a las 22:26:2024
+Banco: M
+Monto: 39.500000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Avena y miel
+Helado 2: Frambuesa
+Helado 3: Dulce de leche
+Helado 4: Stracciatella
+Helado 5: Regaliz
+Helado 6: Chocolate blanco
+Helado 7: Mantecado
+Helado 8: Chocolate
+Helado 9: Torta suiza
+Helado 10: Lluvia de chapas
+
+Cliente: Jonathan Davis
+Ci: 85247196
+Fecha: 13/6/124 a las 21:14:5
+Banco: Hiiiivvvv
+Monto: 19.000000
+Cajero: Estella Kowalsky
+Ci cajero: 14785236
+Helado 1: Chocolate blanco
+Helado 2: Chocolate blanco
+Helado 3: Chocolate
+Helado 4: Lluvia de chapas
+
+Cliente: Cristian dfdf
+Ci: 7412555
+Fecha: 11/6/124 a las 22:23:2
+Banco: 1d
+Monto: 7.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+
+Cliente: No No
+Ci: 7854126
+Fecha: 11/6/124 a las 21:52:23
+Banco: ppp
+Monto: 7.000000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Lluvia de chapas
+
+Cliente: El Drogas
+Ci: 30555444
+Fecha: 11/6/124 a las 21:50:53
+Banco: 
+Monto: 35.500000
+Cajero: Luis Jimenez
+Ci cajero: 30555798
+Helado 1: Frambuesa
+Helado 2: Dulce de leche
+Helado 3: Stracciatella
+Helado 4: Regaliz
+Helado 5: Chocolate blanco
+Helado 6: Mantecado
+Helado 7: Chocolate
+Helado 8: Torta suiza
+Helado 9: Lluvia de chapas
+
+nombre_cliente: ok
+apellido_cliente: ok
+ci: 78965412
+fecha: 11/6/124 a las 21:42:33
+banco: no
+monto: 7.000000
+nombre_cajero: Luis
+apellido_cajero: Jimenez
+ci_cajero: 30555798
+helado1: Lluvia de chapas
+
+nombre_cliente: Fito
+apellido_cliente: Fitipaldis
+ci: 12354687
+fecha: 11/6/124 a las 21:13:57
+banco: Universal
+monto: 15.500000
+nombre_cajero: Luis
+apellido_cajero: Jimenez
+ci_cajero: 30555798
+helado1: Stracciatella
+helado2: Chocolate
+helado3: Lluvia de chapas
+
+Cliente: Juan Luis
+CI: 78451236
+Cajero encargado: Luis Jimenez
+CI: 30555798
+Fecha: 7/6/124 a las 22:40:51
+Monto: 13.000000
+Banco: venezuela
+Helados: 
+Frambuesa
+Pistacho
+Pistacho
+
+Cliente: sepso salvaje
+CI: 1234456
+Cajero encargado: Luis Jimenez
+CI: 30555798
+Fecha: 7/6/124 a las 22:30:55
+Monto: 5.500000
+Banco: universal
+Helados: 
+Pistacho
+
+Cliente: Juan Guerra
+CI: 78965412
+Cajero encargado: Luis Jimenez
+CI: 30555798
+Fecha: 7/6/124 a las 22:30:1
+Monto: 28.500000
+Banco: bod
+Helados: 
+Pistacho
+Lluvia de chapas
+Chocolate
+Regaliz
+Chocolate blanco
+Torta suiza
+
+Cliente: viva lasvegas
+CI: 78965412
+Cajero encargado: Luis Jimenez
+CI: 30555798
+Fecha: 7/6/124 a las 22:27:9
+Monto: 0.100000
+Banco: universal
+Helados: 
+Torta suiza
+Torta suiza
+
